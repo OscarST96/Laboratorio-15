@@ -7,6 +7,8 @@ TagManager:
   - Horizontal
   - Vertical
   - Enemy
+  - Destructor
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -46,4 +48,7 @@ TagManager:
     locked: 0
   - name: Particula
     uniqueID: 2755212067
+    locked: 0
+  - name: Player
+    uniqueID: 922143093
     locked: 0
